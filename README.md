@@ -80,6 +80,10 @@ If the email date is `2023-09-15` and the attachment is named `report.pdf`, the 
 
 Feel free to submit issues or pull requests if you have any suggestions or improvements.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Contact
+If you have any questions or would like to collaborate, feel free to reach out to me:<br/><br/>
+  [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:web.dev.aftab@gamil.com)<br/>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/devaftab/) <br/>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/devaftab/)
